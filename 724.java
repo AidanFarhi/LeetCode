@@ -1,5 +1,5 @@
 /*
- * 724 Find Pivot Index
+ * 724. Find Pivot Index
  * 
  * Given an array of integers nums, calculate the pivot index of this array.
  *
